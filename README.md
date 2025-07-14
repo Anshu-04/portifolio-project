@@ -1,20 +1,20 @@
-# 🧠 Memory Card Game
+# 🙋‍♂️ Personal Portfolio Website
 
-A simple and fun memory challenge game built using **React + Vite**. Players must match all the cards within a time limit to win.
+A modern and responsive personal portfolio built with **React + Vite**. Showcases your bio, projects, and contact details.
 
-## 🚀 Features
+## 🚀 Pages
 
-- Welcome screen with grid size and timer selection
-- Randomized card layout each game
-- Countdown timer with game over if time runs out
-- Success message upon completion
+- **Home**: Introduction and branding
+- **About**: Bio, education, and skills
+- **Projects**: List of featured works
+- **Contact**: Basic contact form and links
 
 ## 🛠️ Built With
 
 - React
 - Vite
-- CSS Modules / Tailwind CSS (if used)
-- React Hooks (`useState`, `useEffect`)
+- Tailwind CSS / CSS
+- React Router
 
 ## 📦 Installation
 
